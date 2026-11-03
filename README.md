@@ -67,6 +67,19 @@ Important columns include:
 - Outlet_Location_Type
 - Outlet_Type
 - Item_Outlet_Sales
+## Dataset Location
+
+The original BigMart Sales CSV dataset is available in the `data/` directory of this repository.
+
+**File:** `data/BigMart Sales.csv`
+
+The dataset contains:
+- 8,523 records
+- 12 columns
+- Product, outlet, and sales information
+
+To use the dataset, download the CSV file and upload it to your Databricks Volume before running the notebooks.
+
 
 ## Project Implementation
 
